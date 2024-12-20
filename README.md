@@ -1,2 +1,2 @@
-# js
+# js repo
 This is javascript repo.
